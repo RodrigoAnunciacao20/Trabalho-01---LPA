@@ -50,6 +50,7 @@ Exemplo de funcionamento do programa:
    5
    5
    Maior frequencia: 3"
+
  4 - Convex Hull - Esse programa pega como entrada n pontos, e devolve os pontos que formam o polígono com área mínima como saída do programa.
  
  
