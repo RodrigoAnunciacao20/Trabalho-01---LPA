@@ -14,7 +14,7 @@ Os códigos nesse repositório foram criados em linguagem C(.c) utilizando o DEV
 
 (2)DESCRIÇÃO DOS PROGRAMAS E TUTORIAL DE COMO USÁ-LOS:
 
-1 - Closest Pair: Esse programa pega como entrada n numeros, e devolve os o primeiro par de números que gera a menor diferença entre eles. Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e calcular as diferenças entre eles e devolver os dois primeiros elementos que geram essa menor diferença.
+1 - Closest Pair: Esse programa pega como entrada n numeros, e devolve os o primeiro par de números que gera a menor diferença entre eles. Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e calcular as diferenças entre eles e devolver os dois primeiros elementos que geram essa menor diferença como saída do programa.
 Exemplo de funcionamento do programa:
 "Digite o numero de elementos da lista: 7
  Digite os numeros da lista: 5
@@ -27,7 +27,7 @@ Exemplo de funcionamento do programa:
  A menor diferença : 7 e 5"
  
  2 - Element Uniqueness: Esse programa pega como entrada n numeros, e devolve todos os elementos que ocorrem uma única vez.
- Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e comparar cada numero com seu adjacente a direita, concluindo assim quais elementos são unicos na minha lista e devolvendo-os como saida do programa.
+ Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e comparar cada numero com seu adjacente a direita, concluindo assim quais elementos são unicos na minha lista e devolvendo-os como saída do programa.
  Exemplo de funcionamento do programa:
  "Digite o numero de elementos da lista: 7
   Digite os numeros da lista: 1
@@ -39,7 +39,7 @@ Exemplo de funcionamento do programa:
   9
   Os numeros unicos: 1 2 9"
   
-  3 - Frequency Distribution: Esse programa pega como entrada n numeros, e devolve o primeiro elemento da lista ordenada que ocorre em maior frequência.Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e comparar cada numero com seu adjacente a direita, concluindo assim quantas vezes ele se repete, e devolvendo o primeiro que ocorre em maior frequência como saida do programa.
+  3 - Frequency Distribution: Esse programa pega como entrada n numeros, e devolve o primeiro elemento da lista ordenada que ocorre em maior frequência.Primeiramente será pedido par entrar com o número de elementos da lista a ser analisada, após isso, entra-se com os elementos da lista(aperte enter após cada valor digitado). Feito isso, o programa irá ordenar os números pelo quicksort e comparar cada numero com seu adjacente a direita, concluindo assim quantas vezes ele se repete, e devolvendo o primeiro que ocorre em maior frequência como saída do programa.
   Exemplo de funcionamento do programa:
   "Digite o numero de elementos da lista: 7
    Digite os numeros da lista: 2
@@ -50,6 +50,6 @@ Exemplo de funcionamento do programa:
    5
    5
    Maior frequencia: 3"
- 
+ 4 - Convex Hull - Esse programa pega como entrada n pontos, e devolve os pontos que formam o polígono com área mínima como saída do programa.
  
  
